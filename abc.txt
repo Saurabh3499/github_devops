@@ -1,0 +1,10 @@
+jenkins:x:972:972:Jenkins Automation Server:/var/lib/jenkins:/bin/bash
+virat:x:1016:1018::/home/virat:/bin/bash
+rohit1:x:1017:1019::/home/rohit1:/bin/bash
+rohit6:x:1018:1020::/home/rohit6:/bin/bash
+rohit7:x:1019:1021::/home/rohit7:/bin/bash
+rohit8:x:1020:1022::/home/rohit8:/bin/bash
+rohit9:x:1021:1023::/home/rohit9:/bin/bash
+natasha:x:1022:1024::/home/natasha:/bin/bash
+viraj:x:1023:1025::/home/viraj:/bin/bash
+rondex:x:1024:1026::/home/rondex:/bin/bash
